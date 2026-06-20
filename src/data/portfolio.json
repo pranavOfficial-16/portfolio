@@ -1,0 +1,116 @@
+{
+  "siteTitle": "Pranav G - Portfolio",
+  "resumeUrl": "/Resume_PranavG.pdf",
+  "email": "pranavraoofficial@gmail.com",
+  "availableForWork": true,
+  "stats": [
+    { "label": "Years Experience", "value": "1.7+" },
+    { "label": "Technologies", "value": "20+" }
+  ],
+  "hero": {
+    "name": "Pranav G",
+    "tagline": "Full-Stack & GenAI Engineer building intelligent web solutions with modern backend systems and cutting-edge AI integration.",
+    "roles": ["Full-Stack Engineer", "GenAI Engineer", "Backend Developer"]
+  },
+  "about": {
+    "biography": "I build intelligent web solutions that work. Full-Stack & AI Engineer specializing in backend systems and generative AI integration.\n\nI turn complex problems into elegant, scalable solutions. Whether it's crafting high-performance APIs, building AI chatbots, or designing system architecture—I deliver results that drive business value.\n\nLet's build something great together.",
+    "photoUrl": "/photo.png",
+    "photoAlt": "Pranav G - Full-Stack & AI Engineer"
+  },
+  "skills": [
+    {
+      "name": "Frontend",
+      "skills": ["React", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"]
+    },
+    {
+      "name": "Backend",
+      "skills": ["Python", "FastAPI", "REST APIs"]
+    },
+    {
+      "name": "Generative AI",
+      "skills": ["LLMs Integration", "RAG (Retrieval-Augmented Generation)", "Langchain", "Langgraph", "Agentic AI"]
+    },
+    {
+      "name": "Databases",
+      "skills": ["PostgreSQL", "MongoDB", "Redis", "Firebase", "MySQL", "SQL"]
+    },
+    {
+      "name": "Languages",
+      "skills": ["Python", "C/C++"]
+    },
+    {
+      "name": "DevOps",
+      "skills": ["Docker", "CI/CD"]
+    },
+    {
+      "name": "Cloud & Tools",
+      "skills": ["AWS", "Jira", "Git", "GitHub", "Gitlab"]
+    },
+    {
+      "name": "AI Tools",
+      "skills": ["Kiro", "Cursor", "Antigravity", "Windsurf"]
+    }
+  ],
+  "projects": [],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "Toadster Technologies",
+      "location": "Noida, India",
+      "workMode": "On-site",
+      "startDate": "Jan 2026",
+      "endDate": "Present",
+      "description": "Building robust backend systems and AI-powered solutions. Developing intelligent systems with Python, FastAPI, and cutting-edge AI technologies including LLMs integration and RAG pipelines. Currently architecting scalable microservices for production environments with focus on performance optimization and system reliability."
+    },
+    {
+      "role": "Software Test Automation Engineer (R&D Intern)",
+      "company": "Stryker",
+      "location": "Gurugram, India",
+      "workMode": "On-site",
+      "startDate": "Jul 2023",
+      "endDate": "Jun 2024",
+      "description": "Automated 50+ test cases using Python scripts with Squish and BDD/TDD methodologies, reducing test execution time by 50% and improving accuracy by 40%. Mentored a new team member in test automation methodologies, achieving a 30% increase in coding efficiency. Enhanced the framework and refactored code, aligning with evolving project requirements, leading to a 20% improvement in overall framework performance."
+    },
+    {
+      "role": "Flutter Developer Intern",
+      "company": "Ridobiko Bike Rentals",
+      "location": "Gurugram, India",
+      "workMode": "Remote",
+      "startDate": "Nov 2022",
+      "endDate": "Nov 2022",
+      "description": "Developed invoice bill generation functionality and improved user interface with Dart and Flutter. Fixed 30+ bugs, enhancing software performance and user experience. Reduced user-reported issues by 15% and increased user satisfaction ratings by 25% through targeted UI improvements and code optimizations."
+    }
+  ],
+  "services": [
+    {
+      "title": "Custom Website Development",
+      "description": "Build beautiful, fast, and modern websites for your business. From small business sites to complex web applications that your customers will love using."
+    },
+    {
+      "title": "AI Chatbots & Smart Assistants",
+      "description": "Create intelligent chatbots that answer customer questions 24/7, handle support tickets, and provide instant assistance without human intervention."
+    },
+    {
+      "title": "AI-Powered Solutions",
+      "description": "Integrate artificial intelligence into your existing systems to automate tasks, analyze data, and make smarter business decisions."
+    },
+    {
+      "title": "Backend Systems & Databases",
+      "description": "Build the behind-the-scenes infrastructure that powers your applications—handling data, security, and scaling as your business grows."
+    }
+  ],
+  "contact": {
+    "socialLinks": [
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/pranavOfficial-16",
+        "ariaLabel": "Visit my GitHub profile"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/in/pranavraoofficial/",
+        "ariaLabel": "Connect with me on LinkedIn"
+      }
+    ]
+  }
+}
